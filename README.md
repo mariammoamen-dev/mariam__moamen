@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Manual Testing Projects From Guru 99](https://docs.google.com/spreadsheets/d/1i4Se3b57xdYxy9L7gJSacTL2XF3RkgWTUb-G7DTBgbI/edit?usp=sharing)
 
-- 🌱 I’m currently learning **Api Testing**
+- 🌱 I’m currently learning **API Testing**
 
 - 📫 How to reach me **mariam.moamen@hotmail.com**
 
