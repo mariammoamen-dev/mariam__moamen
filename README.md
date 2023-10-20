@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=37&pause=1000&random=false&width=435&lines=Welcom+to+my+github+profile)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=37&pause=1000&random=false&width=435&lines=Welcom+to+my+github+profile" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Mariam Moamen</h1>
 <h3 align="center">Junior Software Tester </h3>
 
