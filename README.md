@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=37&pause=1000&random=false&width=435&lines=Welcom+to+my+github+profile" alt="Typing SVG" /></a>
-<h1 align="center">Hi 👋, I'm Mariam Moamen</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=37&pause=1000&random=false&width=435&lines=Welcome+to+my+github+profile" alt="Typing SVG" /></a><h1 align="center">Hi 👋, I'm Mariam Moamen</h1>
 <h3 align="center">Junior Software Tester </h3>
 
 - 🔭 I’m currently working on [Manual Testing Projects From Guru 99](https://docs.google.com/spreadsheets/d/1i4Se3b57xdYxy9L7gJSacTL2XF3RkgWTUb-G7DTBgbI/edit?usp=sharing)
