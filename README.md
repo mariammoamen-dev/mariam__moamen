@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mariam Moamen</h1>
 <h3 align="center">Junior Software Tester from Egypt</h3>
 
-- 🔭 I’m currently working on [Manual Testing Projects From Guru 99](https://docs.google.com/spreadsheets/d/1i4Se3b57xdYxy9L7gJSacTL2XF3RkgWTUb-G7DTBgbI/edit?usp=sharing)
+- 🔭 I’m currently working on **Manual Testing, How to write effective test cases and bug reports**
 
 - 🌱 I’m currently learning **Api Testing**
 
@@ -23,5 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariammoamen&show_icons=true&locale=en" alt="mariammoamen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariammoamen&" alt="mariammoamen" /></p>
-
 
