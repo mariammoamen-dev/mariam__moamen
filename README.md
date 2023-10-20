@@ -1,6 +1,6 @@
 # mariam__moamen
 <h1 align="center">Hi 👋, I'm Mariam Moamen</h1>
-<h3 align="center">Junior Software Tester from Egypt</h3>
+<h3 align="center">Junior Software Tester </h3>
 
 - 🔭 I’m currently working on [Manual Testing Projects From Guru 99](https://docs.google.com/spreadsheets/d/1i4Se3b57xdYxy9L7gJSacTL2XF3RkgWTUb-G7DTBgbI/edit?usp=sharing)
 
